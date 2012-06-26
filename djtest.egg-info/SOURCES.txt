@@ -1,0 +1,16 @@
+djtest/__init__.py
+djtest/settings.py
+djtest/urls.py
+djtest/wsgi.py
+djtest.egg-info/PKG-INFO
+djtest.egg-info/SOURCES.txt
+djtest.egg-info/dependency_links.txt
+djtest.egg-info/entry_points.txt
+djtest.egg-info/not-zip-safe
+djtest.egg-info/top_level.txt
+polls/__init__.py
+polls/admin.py
+polls/models.py
+polls/tests.py
+polls/urls.py
+polls/views.py
